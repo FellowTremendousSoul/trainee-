@@ -1,0 +1,9 @@
+.box__form {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+input:invalid {
+    border: 2px solid #f5a3a3;
+}
